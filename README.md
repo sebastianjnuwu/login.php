@@ -37,3 +37,23 @@ CREATE TABLE `usuario` (
   
 INSERT INTO `usuario` (`usuario`,`senha`) VALUES ('sebastianjn','senha123');
 ```
+
+2 - segundo você esitar o arquivo ```.env``` e coloque as informações correta!
+
+```js
+host=host
+user=user
+senha=senha
+database=database```
+
+3 - terceiro passo é so executar e abrir o navegador e testar se estar tudo funcionando!
+
+```
+php -S 0.0.0.0:8080
+```
+
+entra no navegado em: http://0.0.0.0:8080/
+
+
+
+ฅ^•ﻌ•^ฅ 
