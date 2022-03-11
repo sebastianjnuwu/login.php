@@ -23,3 +23,17 @@ git clone https://github.com/sebastianjn007/login.php
 **Você precisa de database nesse caso usamos o mysql para aemazenar o usuário e a senha**
 
 # 🗒️ configurações 
+
+1 - primeiro você ira criar as tabelas no mysql onde será armazenado usuários e senhas!
+
+```js
+USE DATABASE;
+
+CREATE TABLE `usuario` (
+  `usuario_id` INT NOT NULL AUTO_INCREMENT,
+  `usuario` VARCHAR(200) NOT NULL,
+  `senha` VARCHAR(32) NOT NULL,
+  PRIMARY KEY (`usuario_id`));
+  
+INSERT INTO `usuario` (`usuario`,`senha`) VALUES ('sebastianjn','senha123');
+```
