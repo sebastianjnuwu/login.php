@@ -20,3 +20,6 @@ clone o nosso repositório no seu ambiente de desenvolvimento!
 git clone https://github.com/sebastianjn007/login.php
 ```
 
+**Você precisa de database nesse caso usamos o mysql para aemazenar o usuário e a senha**
+
+# 🗒️ configurações 
