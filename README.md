@@ -20,7 +20,9 @@ clone o nosso repositório no seu ambiente de desenvolvimento!
 git clone https://github.com/sebastianjn007/login.php
 ```
 
-**Você precisa de database nesse caso usamos o mysql para aemazenar o usuário e a senha**
+
+**Você precisa de database nesse caso usamos o mysql para armazenar o usuário e a senha**
+
 
 # 🗒️ configurações 
 
@@ -53,8 +55,8 @@ database=database
 php -S 0.0.0.0:8080
 ```
 
-entra no navegado em: http://0.0.0.0:8080/
+ra no navegado em: http://0.0.0.0:8080/
 
 
 
-ฅ^•ﻌ•^ฅ 
+✒️ ฅ^•ﻌ•^ฅ este repositório tem licença: 
