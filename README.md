@@ -55,10 +55,7 @@ database=database
 php -S 0.0.0.0:8080
 ```
 
-entre no navegador neste link logo apos e vera a tela de login: http://0.0.0.0:8080/
-
-
-
+4- quarto passo entre no navegador neste link logo apos e vera a tela de login: http://0.0.0.0:8080/
 
 
 ฅ^•ﻌ•^ฅ este repositório tem licenca: https://apache.org/licenses/LICENSE-2.0
