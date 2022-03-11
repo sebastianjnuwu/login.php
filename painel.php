@@ -1,10 +1,5 @@
 <?php
-require_once "verifica_login.php";
-if(!$_SESSION['usuario']) {
-	header('Location: index.php');
-	exit();
-}
-
+require_once "loading.php";
 ?>
 
  
