@@ -44,7 +44,7 @@ INSERT INTO `usuario` (`usuario`,`senha`) VALUES ('sebastianjn','senha123');
 host=host
 user=user
 senha=senha
-database=database```
+database=database
 ```
 
 3 - terceiro passo é so executar e abrir o navegador e testar se estar tudo funcionando!
