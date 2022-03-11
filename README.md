@@ -2,6 +2,6 @@
 
 ![](https://media.discordapp.net/attachments/894001719078432828/951860341598457916/12_Sem_Titulo_20220311121251.png)
 
+**O que é um sistema de login?**
 
-Sistema de login feito em php & MySQL
-achei esse sistema na internet e dei um update nele, antigamente estava com vários erros no projeto original mas agora não há um erro se quer!,siga as instruções e passos para ter o melhor proveito do repositório ( haverá atualizacões fiqu de olho! ) e não se esqueça da ⭐.
+login (derivado do inglês log in) ou logon ou signin, é o processo para acessar um sistema informático restrito feita através da autenticação ou identificação do utilizador, usando credenciais previamente cadastradas no sistema por esse utilizador.
