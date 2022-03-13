@@ -49,13 +49,13 @@ senha=senha
 database=database
 ```
 
-3 - terceiro passo é so executar e abrir o navegador e testar se estar tudo funcionando!
+3 - third step is just run and open the browser and test if everything is working!
 
 ```
 php -S 0.0.0.0:8080
 ```
 
-4 - quarto passo entre no navegador neste link logo apos e vera a tela de login: http://0.0.0.0:8080/
+4 - fourth step enter the browser in this link right after and you will see the login screen: http://0.0.0.0:8080/
 
 
-ฅ^•ﻌ•^ฅ este repositório tem licenca: https://apache.org/licenses/LICENSE-2.0
+ฅ^•ﻌ•^ฅ this repository is licensed: https://apache.org/licenses/LICENSE-2.0
