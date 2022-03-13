@@ -14,19 +14,19 @@ downloading php 8
 apt-get install software-properties-common && add-apt-repository ppa:ondrej/php && apt update && apt install php8.0 php8.0-intl php8.0-mysql php8.0-sqlite3 php8.0-gd
 ```
 
-clone o nosso repositório no seu ambiente de desenvolvimento!
+clone our repository in your development environment!
 
 ```
 git clone https://github.com/sebastianjn007/login.php
 ```
 
 
-**Você precisa de database nesse caso usamos o mysql para armazenar o usuário e a senha**
+**You need database in this case we use mysql to store the username and password**
 
 
-# 🗒️ configurações 
+# 🗒 settings:
 
-1 - primeiro você ira criar as tabelas no mysql onde será armazenado usuários e senhas!
+1 - first you will create the tables in mysql where users and passwords will be stored!
 
 ```js
 USE DATABASE;
@@ -40,7 +40,7 @@ CREATE TABLE `usuario` (
 INSERT INTO `usuario` (`usuario`,`senha`) VALUES ('sebastianjn','senha123');
 ```
 
-2 - segundo você editar o arquivo ```.env``` e coloque as informações correta!
+2 - second you edit the ```.env``` file and put the correct information! 
 
 ```js
 host=host
