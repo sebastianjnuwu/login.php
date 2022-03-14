@@ -57,4 +57,6 @@ php -S 0.0.0.0:8080
 
 4 - fourth step enter the browser in this link right after and you will see the login screen: http://0.0.0.0:8080
 
+# License
+
 ฅ^•ﻌ•^ฅ this repository is licensed: https://apache.org/licenses/LICENSE-2.0
