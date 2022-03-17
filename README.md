@@ -20,9 +20,7 @@ clone our repository in your development environment!
 git clone https://github.com/sebastianjn007/login.php
 ```
 
-
 **You need database in this case we use mysql to store the username and password**
-
 
 # 🗒 settings:
 
