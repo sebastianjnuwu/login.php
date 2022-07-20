@@ -55,12 +55,6 @@ php -S 0.0.0.0:8080
 
 4 - fourth step enter the browser in this link right after and you will see the login screen: http://0.0.0.0:8080
 
-# ❤️ Donation 
-
-you have the power to make a difference, make a donation of any symbolic value for our developers to have a good coffee ☕
-
-🌟 Make your donation [by clicking here!](https://ko-fi.com/sebastianjn007)
-
 # 📃 License
 
 ฅ^•ﻌ•^ฅ this repository is licensed: https://apache.org/licenses/LICENSE-2.0
